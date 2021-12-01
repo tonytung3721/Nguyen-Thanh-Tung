@@ -1,1 +1,1 @@
-# Nguyen-Thanh-Tung
+# Sentiment Analysis use Naive Bayes
